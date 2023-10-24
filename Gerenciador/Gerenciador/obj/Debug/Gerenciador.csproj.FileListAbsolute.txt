@@ -1,0 +1,7 @@
+C:\Projetinho\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe.config
+C:\Projetinho\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe
+C:\Projetinho\Gerenciador\Gerenciador\bin\Debug\Gerenciador.pdb
+C:\Projetinho\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csproj.AssemblyReference.cache
+C:\Projetinho\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+C:\Projetinho\Gerenciador\Gerenciador\obj\Debug\Gerenciador.exe
+C:\Projetinho\Gerenciador\Gerenciador\obj\Debug\Gerenciador.pdb
