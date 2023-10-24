@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Gerenciador_Tarefas.models
+namespace Gerenciador_Tarefas.Models
 {
-    class Gerenciador
+    public class Gerenciador
     {
         private List<string> tarefas = new List<string>();
+        private int proximoNumero = 1;
 
         public Gerenciador()
         {
@@ -17,7 +15,7 @@ namespace Gerenciador_Tarefas.models
 
         public void AdicionarTarefa(string data, string tarefa)
         {
-            int numero = tarefas.Count + 1;
+            var numero = proximoNumero++;
             tarefas.Add(numero + " ==> Dia: " + data + " - " + tarefa);
         }
 

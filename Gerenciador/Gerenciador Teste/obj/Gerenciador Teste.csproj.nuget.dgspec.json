@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetinho\\Gerenciador\\Gerenciador Teste\\Gerenciador Teste.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetinho\\Gerenciador\\Gerenciador Teste\\Gerenciador Teste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetinho\\Gerenciador\\Gerenciador Teste\\Gerenciador Teste.csproj",
+        "projectName": "Gerenciador Teste",
+        "projectPath": "C:\\Projetinho\\Gerenciador\\Gerenciador Teste\\Gerenciador Teste.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetinho\\Gerenciador\\Gerenciador Teste\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Projetinho\\Gerenciador\\Gerenciador\\Gerenciador.csproj": {
+                "projectPath": "C:\\Projetinho\\Gerenciador\\Gerenciador\\Gerenciador.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Projetinho\\Gerenciador\\Gerenciador\\Gerenciador.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projetinho\\Gerenciador\\Gerenciador\\Gerenciador.csproj",
+        "projectName": "Gerenciador",
+        "projectPath": "C:\\Projetinho\\Gerenciador\\Gerenciador\\Gerenciador.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

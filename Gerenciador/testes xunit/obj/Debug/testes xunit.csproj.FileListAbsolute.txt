@@ -1,0 +1,50 @@
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\xunit.abstractions.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\xunit.runner.utility.net452.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\testes xunit.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\testes xunit.pdb
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\NuGet.Frameworks.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\System.Collections.Immutable.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\System.Reflection.Metadata.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\xunit.assert.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\xunit.core.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\xunit.execution.desktop.dll
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\Gerenciador.exe
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\Gerenciador.pdb
+C:\Projetinho\Gerenciador\testes xunit\bin\Debug\Gerenciador.exe.config
+C:\Projetinho\Gerenciador\testes xunit\obj\Debug\testes xunit.csproj.AssemblyReference.cache
+C:\Projetinho\Gerenciador\testes xunit\obj\Debug\testes xunit.csproj.CoreCompileInputs.cache
+C:\Projetinho\Gerenciador\testes xunit\obj\Debug\testes xunit.csproj.CopyComplete
+C:\Projetinho\Gerenciador\testes xunit\obj\Debug\testes xunit.dll
+C:\Projetinho\Gerenciador\testes xunit\obj\Debug\testes xunit.pdb
